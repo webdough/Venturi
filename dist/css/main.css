@@ -95,21 +95,18 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+img {
+    max-width: 100%;
+    height: auto;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.main-image,
+.email {
+    text-align: center;
+}
+.email {
+    margin: 0 0 40px 0;
+}
 
 /* ==========================================================================
    Helper classes
